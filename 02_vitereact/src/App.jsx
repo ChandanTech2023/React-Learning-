@@ -1,10 +1,11 @@
 import { useState } from 'react'
 
 function App() {
+  const user = "Chandan Kumar "
  return(
   <>
    <h1> Learn React Concepts </h1>  
-   <h3>Chai Aur React with vite | Chandan </h3>
+   <h3>Chai Aur React with vite | {user} </h3>
    <div className="header">
       <div className="nav-items">
         <ul>
