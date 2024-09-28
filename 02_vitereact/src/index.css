@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(13, 210, 236);
+
+}
+h1,h3 {
+    text-align: center;
+}
+.header{
+    width: 100%;
+    padding: 20px 0;
+    background-color: #fff;
+}
+
+.nav-items ul{
+    display: flex;
+    justify-content: space-around;
+}
+li{
+    list-style: none;
+    cursor: pointer;
+}
+img{
+    margin: 30px 531px;    
+}
