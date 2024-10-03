@@ -1,4 +1,4 @@
-// Learn behind the seen of React
+// Learn behind the seen of React using Custom React
 
 const mainContainer = document.querySelector('#root')
 const reactElement = {
@@ -10,6 +10,7 @@ const reactElement = {
     Children : 'Click me to visit google'
 }
 
+//Custtom Render 
 function customrender(reactElement , Container) {
    /*
     const domElement =document .createElement(reactElement.type)
